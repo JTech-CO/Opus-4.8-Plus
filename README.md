@@ -1,5 +1,7 @@
 # Opus 4.8 Plus
 
+[English](https://github.com/JTech-CO/Opus-4.8-Plus/blob/main/README-EN.md)
+
 Claude Opus 4.8을 위한 **응답 발현 하네스(Response Elicitation Harness)**. Opus 4.8의 답변을 **Fable 5에 최대한 가깝도록** 끌어올리는 운영 규율 묶음이다. 모델 자체나 출력 스타일을 바꾸지 않고, 답 뒤의 추론을 Opus의 능력 천장까지 찍어 줌으로써 그렇게 한다.
 
 > 이 문서는 Opus 4.8 Plus가 **무엇이고 왜 만들었는지**를 설명한다. 각 구성 요소(파일별 역할·사용법)는 `EN/README.md`·`KR/README.md`와 개별 MD 문서에 들어 있다.
